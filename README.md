@@ -1,6 +1,6 @@
 # XoomPark agent pack
 
-Private. One copy of the rules a cloud agent needs when it only has a repo. Last verified 2026-11-19 against xoompark `b0a53e3b`, xoompark-flex `fa530c11`, xoompark-data `e53ed2b3`.
+Public, so a cloud agent can read it without this laptop. One copy of the rules a cloud agent needs when it only has a repo. Last verified 2026-11-19 against xoompark `b0a53e3b`, xoompark-flex `fa530c11`, xoompark-data `e53ed2b3`.
 
 This is not the `TASKS` folder. That folder is 4.5 GB of research, video, and notes, and it stays on the laptop. Deal prices, call notes, and `TASKS/private` are not in this repo.
 
